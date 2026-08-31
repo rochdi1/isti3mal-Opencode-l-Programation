@@ -20,3 +20,5 @@
 
     [قواعد ما قبل التتخطيط] قبل البدء بالبروتوكولات، يجب أن تطبق مبدأ "Think Before Coding":
 
+
+prompt.md (3 PROMPTS OF CODING AGENTS )
