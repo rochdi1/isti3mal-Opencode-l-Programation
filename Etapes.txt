@@ -5,3 +5,19 @@ context engineering
                          (Context Engineering) برومبتات (تلقينات 3) احترافية مبنية على هندسة السياق
 إلى مهندس برمجيات محترف يخطط، ينفذ، ويعدل الكود دون أن يدمر مشروعك. سنقوم ببناء منصة (OpenCode)ستحول 
                                               كاملة من الصفر أمام أعينكم لاختبار قوة هذا الوكيل  SaaS
+
+
+
+
+### 1. برومبت التخطيط المطوّر (The Planning Protocol)
+tasta3malha fi awal mara bach ghadi tbda lprojet
+
+1 - awal haja nftah opencode
+2- n3zal model Big Picle et ncopie lPrompt ((The Planning Protocol))
+
+
+
+
+كامل من صفر منصة إدارة المهام مدعومة بالذكاء الاصطناعي  (Full-stack Saas Application) مع لوحات تحكم
+[ openai] 
+مع إخر واحدات النمادج
