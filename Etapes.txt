@@ -61,10 +61,13 @@ tasta3malha fi awal mara bach ghadi tbda lprojet
 
 *************
 
+------------------------------------
+min ba3d n9omo bi copier prompt 2 fi nafass chat
+
+-----------
+min ba3d tancopie prompt 3 matal bghina nzidou chi 7aja
+
+نريد تحسين تصميم التطبيق بإضافة مميزة('PDF')
+تصدير التقرير إلى الملف
 
 
-
-
-كامل من صفر منصة إدارة المهام مدعومة بالذكاء الاصطناعي  (Full-stack Saas Application) مع لوحات تحكم
-[ openai] 
-مع إخر واحدات النمادج
